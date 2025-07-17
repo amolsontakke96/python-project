@@ -1,6 +1,6 @@
 #!bin/bash
 set -e
-
+set -x
 # pull docker image from docker hub
 
 docker pull amolsontakke96/sample-python
